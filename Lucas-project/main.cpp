@@ -25,7 +25,6 @@ public:
         for(int j = 0; j < arrSize2; j++) {
             cout << "第" << j+1 << "个元素,请输入：";
             cin >> arr2[j];
-            // cin.ignore();
         }
         cout << "arr1[" << arrSize2 << "]={";
         for(int j = 0; j < arrSize2; j++) {
