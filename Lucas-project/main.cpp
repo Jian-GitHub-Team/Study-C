@@ -4,7 +4,7 @@ using namespace std;
 class Solution {
     public:
     int* arr1, *arr2;
-    int arrSize1, arrSize2, target;
+    int arrSize1, arrSize2, target; //增加目标值可由用户自定义
     void inputNum() {
         cout << "请输入数组arr1的长度：";
         cin >> arrSize1;
