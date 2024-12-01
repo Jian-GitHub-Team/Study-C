@@ -65,12 +65,5 @@ void inputNum() {
         // cin.ignore();
     }
 
-    // _sleep(500);
-    // cout.clear();
     cout << endl << "=计算结果=" << endl;
-    // printf("=计算结果=\n");
-
-    /*isNum2(arr1,arr2,arrSize1,arrSize2);
-    delete[] arr1;
-    delete[] arr2;*/
 }
